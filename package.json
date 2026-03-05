@@ -1,0 +1,11 @@
+{
+  "name": "trysmp-afk-bot",
+  "version": "1.0.0",
+  "main": "Try.js",
+  "scripts": {
+    "start": "node Try.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^1.0.3"
+  }
+}
