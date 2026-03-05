@@ -6,7 +6,7 @@
     "start": "node Try.js"
   },
   "dependencies": {
-    "bedrock-protocol": "^1.0.3"
+    "minecraft-protocol": "^1.39.0"
   },
   "engines": {
     "node": ">=18.0.0"
